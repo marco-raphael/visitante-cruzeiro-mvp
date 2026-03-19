@@ -1,4 +1,4 @@
-# ⚓ Cruzeiro Tech & Fun - App de Eventos (MVP)
+# ⚓ Cruzeiro da Raffa - App de Eventos (MVP)
 
 🔗 **[Testar o Protótipo Online -> https://large-star.surge.sh/]**
 
