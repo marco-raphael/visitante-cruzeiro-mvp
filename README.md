@@ -13,7 +13,6 @@ Em vez de focar em uma arquitetura complexa, a prioridade foi construir um **MVP
 * **Tailwind CSS v4:** Escolhido pela velocidade de estilização e facilidade em criar um layout estritamente *Mobile-First*.
 * **Mock Data (JSON):** Banco de dados simulado estaticamente para evitar latência e complexidade de backend nesta fase conceitual.
 * **Surge:** Para deploy contínuo e instantâneo de arquivos estáticos.
-* **Link Surge** https://large-star.surge.sh/
 
 ## ✨ Funcionalidades Entregues
 * **Interface Mobile-First:** O layout é travado em dimensões de smartphone (`max-w-md`), garantindo a visualização correta mesmo em desktops.
