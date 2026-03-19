@@ -2,7 +2,6 @@
 
 🔗 **[Testar o Protótipo Online -> https://large-star.surge.sh/]**
 
-<img width="981" height="867" alt="image" src="https://github.com/user-attachments/assets/60216912-be38-4c7e-8f50-f090c4e78553" />
 
 ## 🎯 O Desafio (Por que 30 minutos?)
 O objetivo deste microprojeto foi validar a viabilidade de uma interface interativa para um trabalho universitário, com foco extremo em agilidade e entrega de valor visual. O cenário simulado exige uma navegação rápida e intuitiva, considerando que os passageiros de um cruzeiro acessariam o app via QR Codes espalhados pelo navio.
@@ -37,3 +36,7 @@ npm install
 \`\`\`bash
 npm run dev
 \`\`\`
+
+## Print:
+
+<img width="981" height="867" alt="image" src="https://github.com/user-attachments/assets/60216912-be38-4c7e-8f50-f090c4e78553" />
