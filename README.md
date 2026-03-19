@@ -3,7 +3,7 @@
 🔗 **[Testar o Protótipo Online -> https://large-star.surge.sh/]**
 
 
-## 🎯 O Desafio (Por que 30 minutos?)
+## ⏱️ Contexto: Prototipação Ágil em 30 Minutos
 O objetivo deste microprojeto foi validar a viabilidade de uma interface interativa para um trabalho universitário, com foco extremo em agilidade e entrega de valor visual. O cenário simulado exige uma navegação rápida e intuitiva, considerando que os passageiros de um cruzeiro acessariam o app via QR Codes espalhados pelo navio.
 
 Em vez de focar em uma arquitetura complexa, a prioridade foi construir um **MVP (Mínimo Produto Viável)** funcional no menor tempo possível, provando que é viável entregar uma excelente UX sem over-engineering.
