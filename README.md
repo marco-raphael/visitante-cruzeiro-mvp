@@ -1,17 +1,39 @@
-# React + Vite
+# ⚓ Cruzeiro Tech & Fun - App de Eventos (MVP)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **[Testar o Protótipo Online -> https://large-star.surge.sh/]**
 
-Currently, two official plugins are available:
+![Screenshot do Protótipo Mobile](./screenshots/app-view.png) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 O Desafio (Por que 30 minutos?)
+O objetivo deste microprojeto foi validar a viabilidade de uma interface interativa para um trabalho universitário, com foco extremo em agilidade e entrega de valor visual. O cenário simulado exige uma navegação rápida e intuitiva, considerando que os passageiros de um cruzeiro acessariam o app via QR Codes espalhados pelo navio.
 
-## React Compiler
+Em vez de focar em uma arquitetura complexa, a prioridade foi construir um **MVP (Mínimo Produto Viável)** funcional no menor tempo possível, provando que é viável entregar uma excelente UX sem over-engineering.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Stack Tecnológica
+* **React + Vite:** Para componentização rápida e inicialização instantânea.
+* **Tailwind CSS v4:** Escolhido pela velocidade de estilização e facilidade em criar um layout estritamente *Mobile-First*.
+* **Mock Data (JSON):** Banco de dados simulado estaticamente para evitar latência e complexidade de backend nesta fase conceitual.
+* **Surge:** Para deploy contínuo e instantâneo de arquivos estáticos.
+* **Link Surge** https://large-star.surge.sh/
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades Entregues
+* **Interface Mobile-First:** O layout é travado em dimensões de smartphone (`max-w-md`), garantindo a visualização correta mesmo em desktops.
+* **Navegação SPA (Single Page Application):** Transições instantâneas entre telas (Agenda e Mapa) sem recarregar a página.
+* **Renderização Dinâmica:** Leitura de um arquivo JSON centralizado para gerar a grade de programação e os mapas de deques.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# visitante-cruzeiro-mvp
+## 🚀 Como rodar localmente
+
+1. Clone o repositório:
+\`\`\`bash
+git clone https://github.com/SEU-USUARIO/app-visitante-evento.git
+\`\`\`
+
+2. Instale as dependências:
+\`\`\`bash
+npm install
+\`\`\`
+
+3. Inicie o servidor de desenvolvimento:
+\`\`\`bash
+npm run dev
+\`\`\`
